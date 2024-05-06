@@ -1,2 +1,1 @@
-# Gartner-Inc-Financial-Analysis
-An analysis of the Gartner Inc financial status using yfinance library in Python.
+This project analyzed the annual Income Statement, Balance Sheet, and Cash Flow Statement for the calendar years ending 2021, 2022, and 2023 for Gartner Inc. using yfinance library. Python was used to conduct a thorough financial analysis of the organization and understand its current financial position in the market.
